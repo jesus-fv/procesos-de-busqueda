@@ -1,3 +1,4 @@
 # Procesos de búsqueda
 
-Aplicación de los diferentes algoritmos de búsqueda, para resolver una serie de problemas.
+[Búsqueda de costo uniforma](./busqueda_de_costo_uniforme/README.md)  
+[Búsqueda A*](./busquedaA*/README.md)
